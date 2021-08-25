@@ -1,4 +1,4 @@
-# bytebank
+# AluraBank
 
 A new Flutter project.
 
